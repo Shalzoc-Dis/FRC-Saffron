@@ -1,7 +1,5 @@
-Deleted Pneumatics Code
+Added ClimbSubsystem
 
 Changes:
-- Deleted PneumaticsSubsystem
-- Deleted PneumaticsCommand
-- Deleted PneumaticsConstants
-- Added basic climb constants
+- Added basic CoralScoring constants
+- Added CoralArmSubsystem
